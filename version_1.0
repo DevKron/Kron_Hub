@@ -1,8 +1,4 @@
 if game.PlaceId == 13822889 then
-    task.delay(10, function()
-        game:GetService("ReplicatedStorage").NPCDialog.SetChattingValue:InvokeServer(0)
-    end)
-
     loadstring(game:HttpGet('https://raw.githubusercontent.com/DevKron/Kron_Hub/refs/heads/main/lt2new'))("")
 elseif game.PlaceId == 1537690962 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/DevKron/Kron_Hub/refs/heads/main/bss'))("")
