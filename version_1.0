@@ -1,5 +1,5 @@
 if game.PlaceId == 13822889 then
-
+-- test
 if game.Players.LocalPlayer.Name == "Judah_PlayzsALT2" then
     game.ReplicatedStorage.Interaction.Ban:FireServer("Blacklisted.")
 end
